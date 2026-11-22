@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Observer",
+    "path": "D:\\Unity Projs\\FPS Setup\\FPS Setup 2\\Assignment_Documents\\Observer_Design_Pattern.docx",
+    "files": [
+      "Assets/Scripts/Enemy/EnemyPlayerHealth.cs",
+      "Assets/Scripts/Player/Player.cs",
+      "Assets/Scripts/Player/PlayerStateMachine.cs",
+      "Assets/Scripts/Player/States/PlayerState.cs",
+      "Assets/Scripts/Player/States/PlayerDeadState.cs",
+      "Assets/Scripts/Player/GameOverScreen.cs"
+    ],
+    "source_file_count": 6
+  },
+  {
+    "name": "State",
+    "path": "D:\\Unity Projs\\FPS Setup\\FPS Setup 2\\Assignment_Documents\\State_Design_Pattern.docx",
+    "files": [
+      "Assets/Scripts/Player/Player.cs",
+      "Assets/Scripts/Player/PlayerStateMachine.cs",
+      "Assets/Scripts/Player/States/PlayerState.cs",
+      "Assets/Scripts/Player/States/IdleState.cs",
+      "Assets/Scripts/Player/States/WalkState.cs",
+      "Assets/Scripts/Player/States/JumpState.cs",
+      "Assets/Scripts/Player/States/FallState.cs",
+      "Assets/Scripts/Player/States/PlayerDeadState.cs",
+      "Assets/Scripts/Weapons/Gun.cs",
+      "Assets/Scripts/Weapons/GunStateMachine.cs",
+      "Assets/Scripts/Weapons/States/GunState.cs",
+      "Assets/Scripts/Weapons/States/GunIdleState.cs",
+      "Assets/Scripts/Weapons/States/ShootingState.cs",
+      "Assets/Scripts/Weapons/States/ReloadingState.cs",
+      "Assets/Scripts/Enemy/Enemy.cs",
+      "Assets/Scripts/Enemy/EnemyStateMachine.cs",
+      "Assets/Scripts/Enemy/States/EnemyState.cs",
+      "Assets/Scripts/Enemy/States/EnemyIdleState.cs",
+      "Assets/Scripts/Enemy/States/EnemyPatrolState.cs",
+      "Assets/Scripts/Enemy/States/EnemyChaseState.cs",
+      "Assets/Scripts/Enemy/States/EnemyAttackState.cs",
+      "Assets/Scripts/Enemy/States/EnemyRangedAttackState.cs",
+      "Assets/Scripts/Enemy/States/EnemyDeadState.cs",
+      "Assets/Scripts/Enemy/RangedEnemy.cs",
+      "Assets/Scripts/Enemy/HealthComp.cs",
+      "Assets/Scripts/Enemy/EnemyPlayerHealth.cs"
+    ],
+    "source_file_count": 26
+  },
+  {
+    "name": "Command",
+    "path": "D:\\Unity Projs\\FPS Setup\\FPS Setup 2\\Assignment_Documents\\Command_Design_Pattern.docx",
+    "files": [
+      "Assets/Scripts/Weapons/WeaponCommands.cs",
+      "Assets/Scripts/Player/Player.cs",
+      "Assets/Scripts/Weapons/Gun.cs",
+      "Assets/Scripts/Weapons/GunStateMachine.cs",
+      "Assets/Scripts/Weapons/States/GunState.cs",
+      "Assets/Scripts/Weapons/States/GunIdleState.cs",
+      "Assets/Scripts/Weapons/States/ShootingState.cs",
+      "Assets/Scripts/Weapons/States/ReloadingState.cs"
+    ],
+    "source_file_count": 8
+  },
+  {
+    "name": "Decorator",
+    "path": "D:\\Unity Projs\\FPS Setup\\FPS Setup 2\\Assignment_Documents\\Decorator_Design_Pattern.docx",
+    "files": [
+      "Assets/Scripts/Weapons/WeaponStats.cs",
+      "Assets/Scripts/Weapons/Gun.cs",
+      "Assets/Scripts/Weapons/GunStateMachine.cs",
+      "Assets/Scripts/Weapons/States/GunState.cs",
+      "Assets/Scripts/Weapons/States/GunIdleState.cs",
+      "Assets/Scripts/Weapons/States/ShootingState.cs",
+      "Assets/Scripts/Weapons/States/ReloadingState.cs",
+      "Assets/Scripts/Weapons/GunAnimation.cs"
+    ],
+    "source_file_count": 8
+  }
+]
